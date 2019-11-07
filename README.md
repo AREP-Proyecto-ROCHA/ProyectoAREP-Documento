@@ -15,13 +15,13 @@ En última instancia se realiza un análisis con todos los artefactos indicados 
 - Cada prenda producida por Francisco Rocha tiene el ajuste perfecto y la consistencia requerida por un cliente. Gracias al equipo más preparado de diseñadores, técnicos e ingenieros que trabajan con maquinaria de última tecnología, tienen un control especial en cada paso del proceso de fabricación que les permite reaccionar a tiempo a las actualizaciones en modelos y tejidos, sin causar ningún impacto en el producto terminado.
 - Cuentan con Politicas de seguridad y salud en el trabajo con un enfoque hacia la proteccion integral del bienestar fisico, mental y social y la prevencion y control de riesgos profesionales para sus trabajadores.
 
-### Mision
+#### Mision
 - "Conformar una empresa única en su organización y modelo, dentro del sector de la confección, tanto por los resultados de la producción y calidad, como para el recurso humano y tecnológico con que cuenta."
 
-### Vision
+#### Vision
 - "C.I. FRANCISCO A. ROCHA ALVARADO Y CIA. LTDA., será una empresa con reconocimiento internacional en la confección de prendas de vestir masculina, caracterizada por la calidad de sus productos, la exigencia en el profesionalismo de su equipo de trabajo y la contribución positiva que realiza a la sociedad en general."
 
-### Politica Ambiental
+#### Politica Ambiental
 - "C.I. FRANCISCO A. ROCHA ALVARADO & CIA. LTDA. Como empresa manufacturera dedicada a la confección de prendas de vestir y comprometida con la conservación del medio ambiente, a través de su Sistema de Gestión Ambiental, fortalece la búsqueda del mejoramiento continuo por medio del logro de los objetivos ambientales y el cumplimiento de la legislación y normatividad ambiental vigente. Adicionalmente, nuestro compromiso ambiental incluye la prevención y disminución de la contaminación, coadyuvar con el desarrollo sostenible de la sociedad y el control de los impactos en los seres humanos y el medio ambiente."
 
 Ya teniendo un contexto de la empresa escogida, se procede al análisis respectivo tomando en cuenta de los siguientes puntos:
@@ -30,9 +30,23 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 
 - Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
 
+A. Modelo CANVAS
+B. Modelo CANVAS
+C. Organigrama de la organización
+
 ### Aplicaciones
+A. Inventario de aplicaciones
+B. Diagrama Lógico de arquitectura de aplicaciones
 
 ### Datos e Infraestructura TI
+A. Diagrama de identificación de las entidades principales
+B. Diccionario de datos
+C. Diagrama de base de datos
+D. Inventario de base de datos
+E. Diagrama de infraestructura de Red y servidores
+F. Inventario de servidores y servicios
+
+### Problematica
 
 ### Conclusiones
 
