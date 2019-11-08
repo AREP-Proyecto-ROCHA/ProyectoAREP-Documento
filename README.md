@@ -56,7 +56,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 ### Datos e Infraestructura TI
 1. Diagrama de identificación de las entidades principales
-  
+  ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/entity.png)
 2. Diccionario de datos
 
 3. Diagrama de base de datos
