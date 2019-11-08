@@ -30,29 +30,62 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 
 ### Negocio
 
-- Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
-
 1. Modelo CANVAS
 ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/CANVAS.png)
 
+- Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
+
 2. Diagrama de Procesos
+
 3. Organigrama de la organización
+
 
 ### Aplicaciones
 1. Inventario de aplicaciones
+
+- Whatsapp: Es una aplicación de mensajería para teléfonos inteligentes, en la que se envían y reciben mensajes mediante
+Internet, complementando servicios de mensajería instantánea, servicio de mensajes cortos o sistema de mensajería multimedia.
+- Skype: Software que permite la comunicación de texto, audio y video.
+- Outlook: Es el servicio de correo electrónico basado en la web de Microsoft, por medio de este se envian correos entre los diferentes sectores de la empresa,tambien se utiliza la funcion de calendario para agendar reuniones.
+- Google Drive: Es un servicio de alojamiento de archivos en la nube de Google. 
+- Gmail: es un servicio de correo electrónico gratuito proporcionado por la empresa estadounidense Google
+- Scheduler: Software de la compañia que sirve para agendar reservas en las oficinas de reuniones
+
 2. Diagrama Lógico de arquitectura de aplicaciones
+
 
 ### Datos e Infraestructura TI
 1. Diagrama de identificación de las entidades principales
+
 2. Diccionario de datos
+
 3. Diagrama de base de datos
+
 4. Inventario de base de datos
+
+- Dbeaver: Es un cliente SQL y una herramienta de administración de bases de datos.
+- PostgreSQL: Es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto, publicado bajo la licencia PostgreSQL.
+- Apache Cassandra: Cassandra es probablemente uno de los proyectos NoSQL más conocidos del mercado. Se trata de una base de datos distribuida de segunda generación con alta escalabilidad. El objetivo es ofrecer un entorno consistente, tolerante a fallos y de alta disponibilidad a la hora de almacenar datos.
+- MariaDB: Es una rama compatible hacia atrás de MySQL® Database Server. Incluye soporte para la mayoría de los motores de almacenamiento Open Source, y además para el propio motor de almacenamiento Maria.
+- Servidor de base de datos : Un equipo informático especializado en servir consultas a clientes remotos o locales que solicitan información o realizan modificaciones a los registros y tablas que existen dentro de las bases de datos del sistema.
+
 5. Diagrama de infraestructura de Red y servidores
+
 6. Inventario de servidores y servicios
 
+
 ### Problematica
+- Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada 
 
 ### Conclusiones
+- La arquitectura empresarial es una disciplina de la informática que permite establecer cómo los sistemas pueden proponer formas de organizar los procesos para una optimización de los recursos y así lograr los objetivos que una organización se propone; todo esto gracias a la visión integral de las organizaciones, permitiendo observar los procesos, datos, aplicaciones e infraestructura tecnológica centrado desde el área de negocio.
+
+- Todo este análisis permite que se establezca el estado actual de la organización de estudio y asi poder tener en cuenta los puntos claves y criticos que se estan presentando dentro de la misma, por supuesto este estudio podria estar acompañado de una serie de otras medidas, como estudios de riesgos, costos, su impacto en el mercado y la viabilidad que esta compañia presenta.
+
+- Para nosotros como equipo fue muy importante conocer desde adentro a una compañia tan grande como esta, ya que nos da perspectiva sobre las compañias locales que manejan la tecnologia como un aliado, y como se ve el mercado para uno de ingeniero.
+
+- En conclusion la empresa FRANCISCO ROCHA es una empresa que cuenta con una cantidad de informacion muy grande, con oportunidades de crecimiento y con un buen escalamiento,pero con una deficiencia grande en la organizacion de la materia prima, por lo que al hablar con ellos se sugiere la opcion de un aplicativo movil (una PWA) que les permita llevar un control sobre el tipo de materia prima que se va a utilizar y si esta en uso, que cantidad y por cuanto tiempo, y si esta fue devuelta a bodega para que otro usuario la utilice, lo que solucionaria un punto critico a la hora del proceso de manufacturacion.
+
 
 ### Bibliografia y fuentes
 - http://www.franciscorocha.com/web/
