@@ -62,6 +62,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
   unidad específica de uno o muchos materiales y a este retiro se le asocia uno o más producidos que nos especifica en qué se usaron
   los materiales y cuanto fue producido, el restante puede ingresarlo de nuevo, como también se registra un ingreso por parte de un 
   proveedor.
+  
 2. Diccionario de datos
 
 3. Diagrama de base de datos
