@@ -47,6 +47,7 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 Internet, complementando servicios de mensajería instantánea, servicio de mensajes cortos o sistema de mensajería multimedia.
 - Skype: Software que permite la comunicación de texto, audio y video.
 - Outlook: Es el servicio de correo electrónico basado en la web de Microsoft, por medio de este se envian correos entre los diferentes sectores de la empresa,tambien se utiliza la funcion de calendario para agendar reuniones.
+- Paqueteria Office: Herramientas utilizadas para la elaboracion de Informes, presentaciones, monitoreo de costos, balances y estados de resultados general. 
 - Google Drive: Es un servicio de alojamiento de archivos en la nube de Google. 
 - Gmail: es un servicio de correo electrónico gratuito proporcionado por la empresa estadounidense Google
 - Scheduler: Software de la compañia que sirve para agendar reservas en las oficinas de reuniones
@@ -78,7 +79,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 5. Diagrama de infraestructura de Red y servidores
 
 6. Inventario de servidores y servicios
-  Nubox, como ERP usado para pago de nóminas.
+- Nubox, como ERP usado para pago de nóminas.
 
 
 ### Problematica
