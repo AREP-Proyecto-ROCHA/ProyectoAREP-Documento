@@ -56,9 +56,45 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 
 ### Datos e Infraestructura TI
-1. Diagrama de identificación de las entidades principales
+1. Diagrama de identificación de las entidades principales:
+
+El diagrama de clases para la Empresa FRANCISCO ROCHA  esta formado por 15 clases y las relaciones que se establecen entre las diferentes clases, tienen en cuenta el tipo de relaciones si es de asociación, generalización, o agregación además de la respectiva multiplicidad.
+La empresa maneja su inventario manteniendo el control y actualizando la información de sus ventas y pedidos para así realizar la solicitud de compra de productos a sus proveedores. En relación a los clientes que llegan a la tienda estos compran sus productos y los cancelan quedando como videncia la respectiva factura y si el producto esta agotado se pasa a la clase pedidos para que desde la clase inventario se proceda a solicitarlo al proveedor.
   
-2. Diccionario de datos
+2. Diccionario de datos:
+
+#### B:
+- Botones: Elemento pequeño utilizado para abrochar o ajustar vestimentas
+
+#### C:
+- Cliente: Persona que utiliza los servicios de un profesional o de una empresa, especialmente la que lo hace regularmente.
+- Cliente Nacional: Cliente cuya residencia de operacion es en el mismo pais de operacion de la empresa que presta el servicio
+- Cliente Internacional: Cliente cuya residencia de operacion es en un pais diferente al de operacion de la empresa que presta el servicio
+- Colección:Es un conjunto de prendas creadas por un diseñador con una coherencia interna en términos de estilo y destinada a una temporada del año en concreto
+- Compra: Orden generada cuando se realiza la compra de material a un proveedor
+
+#### F:
+- Factura: Cuenta en la que se detallan las mercancías recibidas por un cliente, junto con su cantidad y su importe, y que se entrega a quien debe pagarla.
+
+#### H:
+- Hilo: Es una hebra larga y delgada de un material textil, especialmente la que se usa para coser
+
+#### I:
+- Inventario: Lista ordenada de bienes y demás cosas valorables (Materiales y Colecciones) que pertenecen a la empresa o institución.
+
+#### M:
+- Material:Materia prima destinada a la elaboracion de trajes a la medida para hombres
+
+#### P:
+- Pedido:Es el documento que realiza quien ha tomado la decisión en firme de comprar un bien o servicio
+- Proveedor: Un proveedor es una persona o una empresa que abastece a otras empresas con existencias (artículos), los cuales serán vendidos directamente o transformados para su posterior venta.
+
+#### T:
+- Tela: Es un material textil. Un tejido es el género obtenido en forma de lámina más o menos resistente, elástica y flexible, mediante el cruzamiento y enlace de series de hilos o fibras de manera coherente al entrelazarlos o al unirlos por otros medios.
+- Traje: Es un atuendo en el que consta de chaqueta y pantalón, los cuales han sido cortados de la misma tela
+
+#### V:
+- Ventas: Es una acción que se genera de vender un bien o servicio a cambio de dinero.
 
 3. Inventario de base de datos
 
