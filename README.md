@@ -37,7 +37,21 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 
 2. Diagrama de Procesos
 
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.48.19%20AM.png)
+
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.48.38%20AM.png)
+
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.49.18%20AM.png)
+
 3. Organigrama de la organización
+
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.49.32%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.49.43%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.49.53%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.50.04%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.50.17%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.57.48%20AM.png)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.57.58%20AM.png)
 
 
 ### Aplicaciones
@@ -57,6 +71,8 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 ### Datos e Infraestructura TI
 1. Diagrama de identificación de las entidades principales:
+
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.58.17%20AM.png)
 
 El diagrama de clases para la Empresa FRANCISCO ROCHA  esta formado por 15 clases y las relaciones que se establecen entre las diferentes clases, tienen en cuenta el tipo de relaciones si es de asociación, generalización, o agregación además de la respectiva multiplicidad.
 La empresa maneja su inventario manteniendo el control y actualizando la información de sus ventas y pedidos para así realizar la solicitud de compra de productos a sus proveedores. En relación a los clientes que llegan a la tienda estos compran sus productos y los cancelan quedando como videncia la respectiva factura y si el producto esta agotado se pasa a la clase pedidos para que desde la clase inventario se proceda a solicitarlo al proveedor.
@@ -104,6 +120,7 @@ La empresa maneja su inventario manteniendo el control y actualizando la informa
 - MariaDB: Es una rama compatible hacia atrás de MySQL® Database Server. Incluye soporte para la mayoría de los motores de almacenamiento Open Source, y además para el propio motor de almacenamiento Maria.
 
 4. Diagrama de infraestructura de Red y servidores
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.58.29%20AM.png)
 
 5. Inventario de servidores y servicios
 - Web Service, Permite a los usuarios tener un contacto con la compañia por medio de la seccion contactenos, al igual que los datos para un contacto telefonico
