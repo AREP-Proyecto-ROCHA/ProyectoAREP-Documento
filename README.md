@@ -75,7 +75,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 
 ### Problematica
-- Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada 
+- Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada, y se sospecha que tambien se podria estar perdiendo materia prima, debido a que no hay un orden en la sacada y entrega de material en la bodega por parte de los empleados del area de costura.
 
 ### Conclusiones
 - La arquitectura empresarial es una disciplina de la informática que permite establecer cómo los sistemas pueden proponer formas de organizar los procesos para una optimización de los recursos y así lograr los objetivos que una organización se propone; todo esto gracias a la visión integral de las organizaciones, permitiendo observar los procesos, datos, aplicaciones e infraestructura tecnológica centrado desde el área de negocio.
