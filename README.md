@@ -36,16 +36,16 @@ B.Diagrama de Procesos
 C.Organigrama de la organización
 
 ### Aplicaciones
-A.Inventario de aplicaciones
-B.Diagrama Lógico de arquitectura de aplicaciones
+1. Inventario de aplicaciones
+2. Diagrama Lógico de arquitectura de aplicaciones
 
 ### Datos e Infraestructura TI
-A.Diagrama de identificación de las entidades principales
-B.Diccionario de datos
-C.Diagrama de base de datos
-D.Inventario de base de datos
-E.Diagrama de infraestructura de Red y servidores
-F.Inventario de servidores y servicios
+1. Diagrama de identificación de las entidades principales
+2. Diccionario de datos
+3. Diagrama de base de datos
+4. Inventario de base de datos
+5. Diagrama de infraestructura de Red y servidores
+6. Inventario de servidores y servicios
 
 ### Problematica
 
