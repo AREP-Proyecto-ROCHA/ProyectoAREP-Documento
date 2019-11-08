@@ -31,21 +31,21 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 
 - Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
 
-A. Modelo CANVAS
-B. Diagrama de Procesos
-C. Organigrama de la organización
+A.Modelo CANVAS
+B.Diagrama de Procesos
+C.Organigrama de la organización
 
 ### Aplicaciones
-A. Inventario de aplicaciones
-B. Diagrama Lógico de arquitectura de aplicaciones
+A.Inventario de aplicaciones
+B.Diagrama Lógico de arquitectura de aplicaciones
 
 ### Datos e Infraestructura TI
-A. Diagrama de identificación de las entidades principales
-B. Diccionario de datos
-C. Diagrama de base de datos
-D. Inventario de base de datos
-E. Diagrama de infraestructura de Red y servidores
-F. Inventario de servidores y servicios
+A.Diagrama de identificación de las entidades principales
+B.Diccionario de datos
+C.Diagrama de base de datos
+D.Inventario de base de datos
+E.Diagrama de infraestructura de Red y servidores
+F.Inventario de servidores y servicios
 
 ### Problematica
 
