@@ -57,12 +57,6 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 ### Datos e Infraestructura TI
 1. Diagrama de identificación de las entidades principales
-  ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/entities.PNG)
-  
-  Nos muestra las entidades principales relacionadas al proceso que manejamos, los trabajadores hacen un retiro de x cantidad en una 
-  unidad específica de uno o muchos materiales y a este retiro se le asocia uno o más producidos que nos especifica en qué se usaron
-  los materiales y cuanto fue producido, el restante puede ingresarlo de nuevo, como también se registra un ingreso por parte de un 
-  proveedor.
   
 2. Diccionario de datos
 
@@ -86,6 +80,14 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 ### Problematica
 - Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada, y se sospecha que tambien se podria estar perdiendo materia prima, debido a que no hay un orden en la sacada y entrega de material en la bodega por parte de los empleados del area de costura, la materia prima es encargada acto seguido almacenada en las bodegas y fábricas de Francisco Rocha, al momento de manufactura se extrae por porciones de esta misma, sin embargo no hay un buen control con respecto a esto, simplemente cuando se va acabando se encarga más material, lo que ha incurrido en un incremento del presupuesto para materia prima, se presume un inminente malgasto de esta misma o incluso maluso o desaparición de la misma, se busca instaurar un sistema que permita llevar un control de los retiros y disposición de los materiales, de esta manera poder estar al tanto completamente del inventario así saber, y preveer el siguiente encargo que se va a hacer, que al por mayor se obtienen beneficios, también tener un seguimiento/auditoria sobre la persona que hizo el restiro y llevar el control sobre la materia prima usada y lo producido.
+
+- Modelo de la solucion Propuesta:
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/entities.PNG)
+  
+  Nos muestra las entidades principales relacionadas al proceso que manejamos, los trabajadores hacen un retiro de x cantidad en una 
+  unidad específica de uno o muchos materiales y a este retiro se le asocia uno o más producidos que nos especifica en qué se usaron
+  los materiales y cuanto fue producido, el restante puede ingresarlo de nuevo, como también se registra un ingreso por parte de un 
+  proveedor.
 
 ### Conclusiones
 - La arquitectura empresarial es una disciplina de la informática que permite establecer cómo los sistemas pueden proponer formas de organizar los procesos para una optimización de los recursos y así lograr los objetivos que una organización se propone; todo esto gracias a la visión integral de las organizaciones, permitiendo observar los procesos, datos, aplicaciones e infraestructura tecnológica centrado desde el área de negocio.
