@@ -32,6 +32,8 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 - Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
 
 1. Modelo CANVAS
+![https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/CANVAS.png]
+
 2. Diagrama de Procesos
 3. Organigrama de la organización
 
