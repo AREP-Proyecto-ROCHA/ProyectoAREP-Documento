@@ -79,8 +79,10 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 5. Diagrama de infraestructura de Red y servidores
 
 6. Inventario de servidores y servicios
+- Web Service, Permite a los usuarios tener un contacto con la compañia por medio de la seccion contactenos, al igual que los datos para un contacto telefonico
 - Nubox, como ERP usado para pago de nóminas.
-
+- 2 Sysracks 42u It Servidor De Datos De Red Gabinete
+- XAMPP: Incorpora un servidor Apache, un sistema gestor de bases de datos MySQL y lenguajes como PHP y Perl. Además, ofrece soporte para gestionar cuentas FTP, acceso a bases de datos mediante PHPMyAdmin, bases de datos SQLite y varias otras características. También incluye un servidor de correos Mercury para el envío de emails, un servidor Tomcat para servlets JSP, y un servidor FTP FileZilla.
 
 ### Problematica
 - Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada, y se sospecha que tambien se podria estar perdiendo materia prima, debido a que no hay un orden en la sacada y entrega de material en la bodega por parte de los empleados del area de costura, la materia prima es encargada acto seguido almacenada en las bodegas y fábricas de Francisco Rocha, al momento de manufactura se extrae por porciones de esta misma, sin embargo no hay un buen control con respecto a esto, simplemente cuando se va acabando se encarga más material, lo que ha incurrido en un incremento del presupuesto para materia prima, se presume un inminente malgasto de esta misma o incluso maluso o desaparición de la misma, se busca instaurar un sistema que permita llevar un control de los retiros y disposición de los materiales, de esta manera poder estar al tanto completamente del inventario así saber, y preveer el siguiente encargo que se va a hacer, que al por mayor se obtienen beneficios, también tener un seguimiento/auditoria sobre la persona que hizo el restiro y llevar el control sobre la materia prima usada y lo producido.
@@ -96,6 +98,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 ### Bibliografia y fuentes
 - http://www.franciscorocha.com/web/
+- https://es.wikipedia.org/wiki/XAMPP
 - Carlos Eduardo Martin (Gerente Amezquita & Cia)
 
 
