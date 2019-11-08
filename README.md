@@ -77,6 +77,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 5. Diagrama de infraestructura de Red y servidores
 
 6. Inventario de servidores y servicios
+  Nubox, como ERP usado para pago de nóminas.
 
 
 ### Problematica
@@ -89,8 +90,7 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 
 - Para nosotros como equipo fue muy importante conocer desde adentro a una compañia tan grande como esta, ya que nos da perspectiva sobre las compañias locales que manejan la tecnologia como un aliado, y como se ve el mercado para uno de ingeniero.
 
-- En conclusion la empresa FRANCISCO ROCHA es una empresa que cuenta con una cantidad de informacion muy grande, con oportunidades de crecimiento y con un buen escalamiento,pero con una deficiencia grande en la organizacion de la materia prima, por lo que al hablar con ellos se sugiere la opcion de un aplicativo movil (una PWA) que les permita llevar un control sobre el tipo de materia prima que se va a utilizar y si esta en uso, que cantidad y por cuanto tiempo, y si esta fue devuelta a bodega para que otro usuario la utilice, lo que solucionaria un punto critico a la hora del proceso de manufacturacion.
-
+- En conclusion la empresa FRANCISCO ROCHA es una empresa que cuenta con una cantidad de informacion muy grande, con oportunidades de crecimiento y con un buen escalamiento,pero con una deficiencia grande en la organizacion de la materia prima, por lo que al hablar con ellos se sugiere la opcion de un aplicativo movil (una PWA) que les permita llevar un control sobre el tipo de materia prima que se va a utilizar y si esta en uso, que cantidad y por cuanto tiempo, y si esta fue devuelta a bodega para que otro usuario la utilice, o bien el uso de algún ERP que se ajuste a las necesidades, lo que solucionaria un punto critico a la hora del proceso de manufacturacion.
 
 ### Bibliografia y fuentes
 - http://www.franciscorocha.com/web/
