@@ -14,6 +14,7 @@ En última instancia se realiza un análisis con todos los artefactos indicados 
 - Francisco Rocha & Cia Ltda es una compañia especializada en el diseño, corte y manofactura de ropa a medida para hombres, lleva 27 años en el mercado, ubicado en la ciudad de Bogota con plantas en Buenaventura, Cartagena y Barranquilla, cuenta con socios ubicados en Estados Unidos y actualmente es un gran exportador para la costa Este y para Miami.
 - Cada prenda producida por Francisco Rocha tiene el ajuste perfecto y la consistencia requerida por un cliente. Gracias al equipo más preparado de diseñadores, técnicos e ingenieros que trabajan con maquinaria de última tecnología, tienen un control especial en cada paso del proceso de fabricación que les permite reaccionar a tiempo a las actualizaciones en modelos y tejidos, sin causar ningún impacto en el producto terminado.
 - Cuentan con Politicas de seguridad y salud en el trabajo con un enfoque hacia la proteccion integral del bienestar fisico, mental y social y la prevencion y control de riesgos profesionales para sus trabajadores.
+- Las unidades exportadas, incluyendo las que están en producción, hasta el 25 de septiembre de 2019, ascienden a 807.250; de estas, más de 60.000 hacen parte del acuerdo Atpa. Los 200.000 vestidos a que se hace referencia corresponden no solo a las unidades que serán exportadas a Emanuel Ungaro según el presupuesto al 31 de diciembre de 2019, sino que también incluyen las unidades vendidas a la organización Arturo Calle para ventas nacionales. La empresa ha generado 510 empleos más desde octubre de 2018 para abastecer la demanda nacional y la de exportaciones de prendas de vestir, gracias al acuerdo Atpdea y a la ampliación de la jornada ordinaria.
 
 #### Mision
 - "Conformar una empresa única en su organización y modelo, dentro del sector de la confección, tanto por los resultados de la producción y calidad, como para el recurso humano y tecnológico con que cuenta."
@@ -31,7 +32,7 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 - Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
 
 A. Modelo CANVAS
-B. Modelo CANVAS
+B. Diagrama de Procesos
 C. Organigrama de la organización
 
 ### Aplicaciones
@@ -50,8 +51,8 @@ F. Inventario de servidores y servicios
 
 ### Conclusiones
 
-### Bibliografia
+### Bibliografia y fuentes
 - http://www.franciscorocha.com/web/
-
+- Carlos Eduardo Martin (Gerente Amezquita & Cia)
 
 
