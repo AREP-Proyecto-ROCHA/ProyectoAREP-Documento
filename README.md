@@ -74,13 +74,13 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
 - MySQL: Es un sistema de gestión de bases de datos relacionales de código abierto (RDBMS, por sus siglas en inglés) con un modelo cliente-servidor. RDBMS es un software o servicio utilizado para crear y administrar bases de datos basadas en un modelo relacional. 
 - Apache Cassandra: Cassandra es probablemente uno de los proyectos NoSQL más conocidos del mercado. Se trata de una base de datos distribuida de segunda generación con alta escalabilidad. El objetivo es ofrecer un entorno consistente, tolerante a fallos y de alta disponibilidad a la hora de almacenar datos.
 - MariaDB: Es una rama compatible hacia atrás de MySQL® Database Server. Incluye soporte para la mayoría de los motores de almacenamiento Open Source, y además para el propio motor de almacenamiento Maria.
-- Servidor de base de datos : Un equipo informático especializado en servir consultas a clientes remotos o locales que solicitan información o realizan modificaciones a los registros y tablas que existen dentro de las bases de datos del sistema.
 
 5. Diagrama de infraestructura de Red y servidores
 
 6. Inventario de servidores y servicios
 - Web Service, Permite a los usuarios tener un contacto con la compañia por medio de la seccion contactenos, al igual que los datos para un contacto telefonico
 - Nubox, como ERP usado para pago de nóminas.
+- Servidor de base de datos : Un equipo informático especializado en servir consultas a clientes remotos o locales que solicitan información o realizan modificaciones a los registros y tablas que existen dentro de las bases de datos del sistema.
 - 2 Sysracks 42u It Servidor De Datos De Red Gabinete
 - XAMPP: Incorpora un servidor Apache, un sistema gestor de bases de datos MySQL y lenguajes como PHP y Perl. Además, ofrece soporte para gestionar cuentas FTP, acceso a bases de datos mediante PHPMyAdmin, bases de datos SQLite y varias otras características. También incluye un servidor de correos Mercury para el envío de emails, un servidor Tomcat para servlets JSP, y un servidor FTP FileZilla.
 
