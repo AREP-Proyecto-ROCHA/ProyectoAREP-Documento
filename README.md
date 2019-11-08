@@ -10,6 +10,7 @@ En tercer lugar, se toma la perspectiva de Datos y de Infraestructura de TI, don
 En última instancia se realiza un análisis con todos los artefactos indicados anteriormente y una serie de conclusiones frente a la identificación del problema presente.
 
 ## Contexto De La Organizacion
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/rocha.png)
 
 - Francisco Rocha & Cia Ltda es una compañia especializada en el diseño, corte y manofactura de ropa a medida para hombres, lleva 27 años en el mercado, ubicado en la ciudad de Bogota con plantas en Buenaventura, Cartagena y Barranquilla, cuenta con socios ubicados en Estados Unidos y actualmente es un gran exportador para la costa Este y para Miami.
 - Cada prenda producida por Francisco Rocha tiene el ajuste perfecto y la consistencia requerida por un cliente. Gracias al equipo más preparado de diseñadores, técnicos e ingenieros que trabajan con maquinaria de última tecnología, tienen un control especial en cada paso del proceso de fabricación que les permite reaccionar a tiempo a las actualizaciones en modelos y tejidos, sin causar ningún impacto en el producto terminado.
@@ -32,7 +33,7 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 - Este modelo permite observar la estructura del negocio de una manera organizada y simple dejando ver la forma en la que se crea valor para los clientes y logra competitividad, al permitir analizar las diferentes alternativas dentro del modelo de negocio y tantear la viabilidad y la forma en la que el sistema responde.
 
 1. Modelo CANVAS
-![https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/CANVAS.png]
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/CANVAS.png)
 
 2. Diagrama de Procesos
 3. Organigrama de la organización
