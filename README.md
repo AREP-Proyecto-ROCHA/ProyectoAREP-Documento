@@ -60,18 +60,16 @@ Internet, complementando servicios de mensajería instantánea, servicio de mens
   
 2. Diccionario de datos
 
-3. Diagrama de base de datos
-
-4. Inventario de base de datos
+3. Inventario de base de datos
 
 - Dbeaver: Es un cliente SQL y una herramienta de administración de bases de datos.
 - MySQL: Es un sistema de gestión de bases de datos relacionales de código abierto (RDBMS, por sus siglas en inglés) con un modelo cliente-servidor. RDBMS es un software o servicio utilizado para crear y administrar bases de datos basadas en un modelo relacional. 
 - Apache Cassandra: Cassandra es probablemente uno de los proyectos NoSQL más conocidos del mercado. Se trata de una base de datos distribuida de segunda generación con alta escalabilidad. El objetivo es ofrecer un entorno consistente, tolerante a fallos y de alta disponibilidad a la hora de almacenar datos.
 - MariaDB: Es una rama compatible hacia atrás de MySQL® Database Server. Incluye soporte para la mayoría de los motores de almacenamiento Open Source, y además para el propio motor de almacenamiento Maria.
 
-5. Diagrama de infraestructura de Red y servidores
+4. Diagrama de infraestructura de Red y servidores
 
-6. Inventario de servidores y servicios
+5. Inventario de servidores y servicios
 - Web Service, Permite a los usuarios tener un contacto con la compañia por medio de la seccion contactenos, al igual que los datos para un contacto telefonico
 - Nubox, como ERP usado para pago de nóminas.
 - Servidor de base de datos : Un equipo informático especializado en servir consultas a clientes remotos o locales que solicitan información o realizan modificaciones a los registros y tablas que existen dentro de las bases de datos del sistema.
