@@ -1,13 +1,17 @@
-# Analisis de la Empresa Francisco Rocha
+# PROYECTO AREP 2019 -2
 - Realizado por : Oscar Ricardo Pinto Benavides - Andres Martin Cantor Urrego
 - Arquitectura Empresarial – AREP
-- Noviembre 8 de 2019
 
-## Introduccion
-- En el siguiente documento se busca entender y analizar el estado actual de la empresa, lo que permitirá establecer un diagnóstico de la situación presente y un abordaje de alguna problemática actual. Para realizar este estudio es necesario dividir el estudio en 4 partes centrales para abordar todos los componentes de la organización, en primer lugar, se presentará a nivel de perspectiva de Negocio donde se presentará el modelo CANVAS, el diagrama de procesos y el organigrama de la organización.
+## INTRODUCCION:
+- En este documento en primera parte se busca entender y analizar el estado actual de la empresa, lo que permitirá establecer un diagnóstico de la situación presente y un abordaje de alguna problemática actual. Para realizar este estudio es necesario dividir el estudio en 4 partes centrales para abordar todos los componentes de la organización, en primer lugar, se presentará a nivel de perspectiva de Negocio donde se presentará el modelo CANVAS, el diagrama de procesos y el organigrama de la organización.
 En segundo lugar, se toma la perspectiva a nivel de Aplicaciones, donde se presentará un Inventario de aplicaciones y un diagrama lógico de arquitectura de aplicaciones.
 En tercer lugar, se toma la perspectiva de Datos y de Infraestructura de TI, donde se presentará un diagrama de identificación de las entidades principales, Un diccionario de datos, Un inventario de base de datos, un diagrama de infraestructura de Red y servidores, y para finalizar un inventario de servidores y servicios presente en la organización.
-En última instancia se realiza un análisis con todos los artefactos indicados anteriormente y una serie de conclusiones frente a la identificación del problema presente.
+- En última instancia se realiza un análisis con todos los artefactos indicados anteriormente sobre la problematica escogida, mostrando la situacion actual de la empresa y el impacto actual (con cifras numericas), despues se planteara los cambios e impactos que se tendra en el negocio en indicadores internos de la organizacion, asi como el modelamiento de la solucion presentando el diagrama de clases y el modelo de arquitectura de la misma, un estimado en costos de la implementacion con los servicios de AWS y los costos de la operacion por parte de ingenieria sumados a la Reserva Gerencial establecida y el horizonte de proyeccion para este proyecto.
+Se mostrara tambien el cambio a nivel de gobierno que tiene que realizarse par la implementacion asi, como una descripcion del prototipo y demostraciones del experimento.
+POr ultimo se mostrara el trabajo Futuro por realizar y las conclusiones respectivas de este proyecto.
+
+## Analisis Preliminar de la Empresa Francisco Rocha
+- Noviembre 8 de 2019
 
 ## Contexto De La Organizacion
 ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/rocha.png)
@@ -129,25 +133,92 @@ La empresa maneja su inventario manteniendo el control y actualizando la informa
 - 2 Sysracks 42u It Servidor De Datos De Red Gabinete
 - XAMPP: Incorpora un servidor Apache, un sistema gestor de bases de datos MySQL y lenguajes como PHP y Perl. Además, ofrece soporte para gestionar cuentas FTP, acceso a bases de datos mediante PHPMyAdmin, bases de datos SQLite y varias otras características. También incluye un servidor de correos Mercury para el envío de emails, un servidor Tomcat para servlets JSP, y un servidor FTP FileZilla.
 
+## Analisis Final de la Empresa Francisco Rocha
+- Diciembre 10 de 2019
+
 ### Problematica
 - Se ha identificado como problematica que la empresa Francisco rocha presenta una falencia en la organizacion de la materia prima a la hora de realizar el procedimiento de confeccion y costura, debido a que mucha materia prima es malgastada, y se sospecha que tambien se podria estar perdiendo materia prima, debido a que no hay un orden en la sacada y entrega de material en la bodega por parte de los empleados del area de costura, la materia prima es encargada acto seguido almacenada en las bodegas y fábricas de Francisco Rocha, al momento de manufactura se extrae por porciones de esta misma, sin embargo no hay un buen control con respecto a esto, simplemente cuando se va acabando se encarga más material, lo que ha incurrido en un incremento del presupuesto para materia prima, se presume un inminente malgasto de esta misma o incluso maluso o desaparición de la misma, se busca instaurar un sistema que permita llevar un control de los retiros y disposición de los materiales, de esta manera poder estar al tanto completamente del inventario así saber, y preveer el siguiente encargo que se va a hacer, que al por mayor se obtienen beneficios, también tener un seguimiento/auditoria sobre la persona que hizo el restiro y llevar el control sobre la materia prima usada y lo producido.
 
-- Modelo de la solucion Propuesta:
+### Estado Actual e Impacto:
+- Francisco Rocha Actualmente tiene perdidas de Material calculadas en $25'000.000 en lo que va del 2019 y $45'768.000 en el periodo de 2018, Desperdicio de Material en el proceso de manufacturacion, transporte, por defectos y de movimientos innecesarios calculados en $90'000.000 en lo que va del 2019 y $137'567.000 en el periodo de 2018.
+Se ha producido un Aumento de los costos de materiales directos en un 10%, en los precios de las unidades vendidas en un 5%, en la cantidad de pedidos a proveedores en un 15% y un aumento del valor de los pedidos en $4'000.000.
+- Por la misma situacion se ha incurrido en sanciones a mas de 67 trabajadores en lo corrido de 2019 y a 180 en 2018.
+- Toda esta situacion ha provocado una disminucion en el Reveneu Anual de la empresa en un 8.9%
+
+## Arquitectura de la solucion:
+
+### Modelo de la solucion Propuesta:
 ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/entities.PNG)
   
   Nos muestra las entidades principales relacionadas al proceso que manejamos, los trabajadores hacen un retiro de x cantidad en una 
   unidad específica de uno o muchos materiales y a este retiro se le asocia uno o más producidos que nos especifica en qué se usaron
   los materiales y cuanto fue producido, el restante puede ingresarlo de nuevo, como también se registra un ingreso por parte de un 
   proveedor.
+  
+### Modelo de la Arquitectura:
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/arquitectura.PNG)
+
+### Costo de la Implementacion y Operacion (AWS):
+- En la siguiente imagen se presenta los costos estimados deacuerdo a la calculadora de costos de AWS:
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/AWS.PNG)
+
+### Costos de Implementacion (Ingenieria):
+Se Estima que el personal de Ingenieria son:
+- 4 Ingenieros (2 para Back, 1 para Front)
+- 2 Ingenieros de Seguridad
+- Sueldo X Ingeniero ($2’500.000)
+Por un Total de $ 15’000.000
+
+Costos de la implementación con AWS:  USD (375.43) $ 1’314.000
+Costos de contratación: $ 15’000.000
+-------------------------------------------------------------
+TOTAL Costos de Implementación: $16’314.000 Mensual
+Reserva gerencial: $500.000
+Total mensual:  $16’314.000
+
+HORIZONTE DE PROYECCIÓN : 3 meses y 15 días
+TOTAL DEL PROYECTO: $58.849.000
+
+### Cambios en Gobierno
+Algunos cambios a nivel de Gobierno que toca implementar para la respectiva solucion son:
+- Implementacion de una cultura del uso de la T.I como herramienta organizacional
+- Implementacion de politicas frente al tratamiento de materiales
+- Capacitaciones sobre el uso de la aplicación y las ventajas corporativas que trae para las áreas de Costura, transporte y Administrativa de Bodegas con el módulo de manejo de inventario
+- Participación activa de los trabajadores sobre funcionalidades y sugerencias para la aplicación
+
+### Prototipo
+
+#### Descripcion del Prototipo:
+
+- Link del repositorio del prototipo experimental: https://github.com/AREP-Proyecto-ROCHA 
+
+#### Imagenes demostrativas de la solucion:
+
+
+
+### Trabajo Futuro
+Algunas consideraciones a futuro para posteriores proyectos relacionados son:
+- Desarrollo del Módulo Administrativo, Módulo de Transporte y Módulo de costura
+- Escalamiento Vertical para soportar los diferentes módulos
+- Planeación de pedidos en base de estadísticas obtenidas a partir de los reportes de las entradas y salidas de material, con un sistema de Machine learning
 
 ### Conclusiones
 - La arquitectura empresarial es una disciplina de la informática que permite establecer cómo los sistemas pueden proponer formas de organizar los procesos para una optimización de los recursos y así lograr los objetivos que una organización se propone; todo esto gracias a la visión integral de las organizaciones, permitiendo observar los procesos, datos, aplicaciones e infraestructura tecnológica centrado desde el área de negocio.
 
 - Todo este análisis permite que se establezca el estado actual de la organización de estudio y asi poder tener en cuenta los puntos claves y criticos que se estan presentando dentro de la misma, por supuesto este estudio podria estar acompañado de una serie de otras medidas, como estudios de riesgos, costos, su impacto en el mercado y la viabilidad que esta compañia presenta.
 
-- Para nosotros como equipo fue muy importante conocer desde adentro a una compañia tan grande como esta, ya que nos da perspectiva sobre las compañias locales que manejan la tecnologia como un aliado, y como se ve el mercado para uno de ingeniero.
+- Concluímos que la implementación de soluciones T.I, ayuda a la reducción de costos, mitigación de errores humanos o malintencionados.
 
-- En conclusion la empresa FRANCISCO ROCHA es una empresa que cuenta con una cantidad de informacion muy grande, con oportunidades de crecimiento y con un buen escalamiento,pero con una deficiencia grande en la organizacion de la materia prima, por lo que al hablar con ellos se sugiere la opcion de un aplicativo movil (una PWA) que les permita llevar un control sobre el tipo de materia prima que se va a utilizar y si esta en uso, que cantidad y por cuanto tiempo, y si esta fue devuelta a bodega para que otro usuario la utilice, o bien el uso de algún ERP que se ajuste a las necesidades, lo que solucionaria un punto critico a la hora del proceso de manufacturacion.
+- El análisis de arquitectura permite tener una visión más panorámica de todos los frentes organizacionales y de esta manera encontrar puntos débiles que pueden ser tratados para mejorar los procesos de la organización. 
+
+- Haciendo proyectos con un enfoque en T.I aumenta el revenue de la organización al presentar alternativas de mejora frente a la ejecución de procesos.
+
+- Tener en consideración Gastos, Costos y Presupuesto frente a un proyecto y realizar el análisis respectivo de utilización permite un mejor manejo del cronograma así como visualización del rendimiento del proyecto.
+
+- Hay que tener en cuenta que la mejor solución a implementar no siempre recae en el desarrollo propio de una solución, ya que en el mercado se presentan situaciones similares con soluciones ya implementadas que facilitan la mitigación del problema.
+
+- No siempre son soluciones de TI, las soluciones pueden recaer en la optimización de procesos en componentes críticos en la trazabilidad.
+
 
 ### Bibliografia y fuentes
 - http://www.franciscorocha.com/web/
