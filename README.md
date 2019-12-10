@@ -167,17 +167,17 @@ Se Estima que el personal de Ingenieria son:
 - 4 Ingenieros (2 para Back, 1 para Front)
 - 2 Ingenieros de Seguridad
 - Sueldo X Ingeniero ($2’500.000)
-Por un Total de $ 15’000.000
+- Por un Total de $ 15’000.000
 
-Costos de la implementación con AWS:  USD (375.43) $ 1’314.000
-Costos de contratación: $ 15’000.000
+- Costos de la implementación con AWS:  USD (375.43) $ 1’314.000
+- Costos de contratación: $ 15’000.000
 -------------------------------------------------------------
-TOTAL Costos de Implementación: $16’314.000 Mensual
-Reserva gerencial: $500.000
-Total mensual:  $16’314.000
+- TOTAL Costos de Implementación: $16’314.000 Mensual
+- Reserva gerencial: $500.000
+- Total mensual:  $16’314.000
 
-HORIZONTE DE PROYECCIÓN : 3 meses y 15 días
-TOTAL DEL PROYECTO: $58.849.000
+#### HORIZONTE DE PROYECCIÓN : 3 meses y 15 días
+- TOTAL DEL PROYECTO: $58.849.000
 
 ### Cambios en Gobierno
 Algunos cambios a nivel de Gobierno que toca implementar para la respectiva solucion son:
