@@ -57,6 +57,8 @@ Ya teniendo un contexto de la empresa escogida, se procede al análisis respecti
 ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.57.48%20AM.png)
 ![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/Screen%20Shot%202019-11-08%20at%2010.57.58%20AM.png)
 
+### Diagrama unico de Arquitectura
+![](https://github.com/AREP-Proyecto-ROCHA/ProyectoAREP-Documento/blob/master/Imagenes/AREP%20(1).png)
 
 ### Aplicaciones
 1. Inventario de aplicaciones
