@@ -156,11 +156,11 @@ Se ha producido un Aumento de los costos de materiales directos en un 10%, en lo
   proveedor.
   
 ### Modelo de la Arquitectura:
-![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/arquitectura.PNG)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/arquitectura.png)
 
 ### Costo de la Implementacion y Operacion (AWS):
 - En la siguiente imagen se presenta los costos estimados deacuerdo a la calculadora de costos de AWS:
-![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/AWS.PNG)
+![](https://github.com/Martin9958/ProyectoAREP-III/blob/master/Imagenes/AWS.png)
 
 ### Costos de Implementacion (Ingenieria):
 Se Estima que el personal de Ingenieria son:
